@@ -14,7 +14,6 @@
 
 .title {
   font-size: 1.5rem;
-  color: #42b983;
 }
 
 nav {
